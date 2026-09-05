@@ -1,0 +1,1 @@
+window.TRACKER_CONFIG={SUPABASE_URL:"https://qsxkxznqgplmkadvydey.supabase.co",SUPABASE_PUBLISHABLE_KEY:"sb_publishable_ylRe1sM6R74q7n_YRTIOkQ_FkWR0-Wg"};
